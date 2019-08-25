@@ -59,3 +59,20 @@ table {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+ .container {
+   width: 960px;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin: 0 auto;
+ }
+
+/*
+   ========================================
+   Typography
+   ========================================
+*/
+
+h1, h3, h4, h5, p {
+  margin-bottom: 22px;
+}

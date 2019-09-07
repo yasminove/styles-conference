@@ -139,6 +139,11 @@ a {
   text-decoration: none;
 }
 
+p a {
+  border-bottom: 1px solid #dfe2e5;
+}
+
+
  /*
     ========================================
     Clearfix

@@ -80,6 +80,12 @@ table {
   padding-left: 15px;
 }
 
+.container,
+.grid {
+    margin: 0 auto;
+    width: 960px;
+}
+
 
  /*
     ========================================

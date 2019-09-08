@@ -151,6 +151,11 @@ a:hover {
   color: #a9b2b9;
 }
 
+.tagline {
+  margin: 6px 0 22px 0;
+  text-align: right;
+}
+
 
  /*
     ========================================
